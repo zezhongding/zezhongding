@@ -3,5 +3,4 @@
 - 🔭 My general research interests mainly focus on the areas of data management, system, and artificial intelligence over big data, particularly big graph data.
 - 🌱 [Homepage](https://zezhongding.github.io/)
 
-![Zezhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zezhongding&theme=graywhite&show_icons=true)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=zezhongding&theme=graywhite&show_icons=true)
+![Zezhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zezhongding&theme=Gradient&show_icons=true)
