@@ -1,10 +1,33 @@
-### Hi, I'm Zezhong Ding 👋
-- 🤔 I’m currently working toward a Ph.D. degree in Computer Science at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC).
-- 🔭 My general research interests mainly focus on the data management, distributed computing, and machine learning systems over big data and large models, particularly big graph data and large language models.
-- 🌱 [Homepage](https://zezhongding.github.io/)
+<h1 align="center">Hi, I'm Zezhong Ding 👋</h1>
 
-![Zezhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zezhongding&theme=Gradient&show_icons=true)
+<p align="center">
+🎓&nbsp; Ph.D. student in Computer Science <br>
+🏫&nbsp; School of Artificial Intelligence and Data Science, USTC <br>
+🔗 <a href="https://zezhongding.github.io/">Homepage</a>
+</p>
 
+---
+
+**About Me**
+
+- 🤖 &nbsp;Currently pursuing a Ph.D. in Computer Science at <b>USTC</b>.
+- 💡 &nbsp;My research interests include data management, distributed computing, and machine learning systems for big data and large models.
+- 📊 &nbsp;I am particularly enthusiastic about <b>big graph data</b> and <b>large language models</b>.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zezhongding&theme=gradient&show_icons=true" alt="Zezhong's GitHub stats" />
+</p>
+
+<!-- 可选：贪吃蛇动画
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zezhongding/zezhongding/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zezhongding/zezhongding/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zezhongding/zezhongding/output/github-contribution-grid-snake-dark.svg">
