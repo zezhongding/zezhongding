@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zezhongding&theme=gradient&show_icons=true" height="160"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=zezhongding&theme=gradient" height="160"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=zezhongding&theme=onestar&column=1" height="160"/>
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=zezhongding&theme=onestar&column=1" height="160"/> -->
 </p>
 
 
